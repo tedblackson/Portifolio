@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+h1 {
+    margin-left: 20%;
+}
+.evento img{
+    width: 50%;
+}
+.second-img{
+    width: 40%
+}
+.description{
+    display: flex;
+
+}
+
+.description p{
+
+    margin-top: 10%;
+    font-size: 1.2rem;
+  
+    text-align: center;
+
+}
+
+.features{
+    display: block;
+    font-size: 1.3rem;
+    /* text-transform: capitalize; */
+    text-align: left;
+    padding: 5%;
+
+}
+.features h2{
+    text-align: center;
+   
+}
+
+.feature{
+    display: block;
+    line-height: 2rem;
+    margin-left: 10%;
+    
+
+    
+}
+.feature img{
+    width: 20px;
+}
+
+.second-img{
+
+    width: 30%;
+    
+    margin-left: 20%;
+}
+
+section {
+    text-align: center;
+}
+.details{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    letter-spacing: 0.1rem;
+    margin: 2% auto;
+
+
+}
+.technos{
+
+    margin: auto;
+
+    display: block;
+}
+
+.megenagna .description img{
+    border: 0.2rem black solid;
+    border-radius: 5%;
+}
+.description{
+    font-size: 4rem;
+    margin: auto 10%;
+
+}
+
+.description p{
+    margin-left: 5%;
+}
+
+.megenagna2 img{
+    margin: auto;
+    height:  50%;
+}
+.megenagna{
+    margin-top: 15%;
+}

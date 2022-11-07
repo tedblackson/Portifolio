@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+main{
+    color: Black;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+main p{
+    /* font-family: 'Roboto', sans-serif; */
+    font-size: 2rem;
+    padding: 5%;
+    margin-bottom: auto;
+    text-transform: capitalize;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    margin-top: 17%;
+}
+
+body{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.profile{
+    width: 45%;
+    /* position: relative; */
+}
+.article{
+    width: 55%;
+}
+
+main img{
+    margin-left: 10%;
+    height:50%;
+}
+

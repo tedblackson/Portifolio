@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+main p{
+   
+    text-align: left;
+    margin: auto;
+    width: 50%;
+    line-height: 1.5rem;
+    letter-spacing:0.05rem;
+}
+main h1{
+    margin-left: 10%;
+
+}
+
+footer{
+    bottom: -20;
+}
